@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there 👋, my name is Mahdi HADJ TAIEB
 
+🎓 I’m in my final year of engineering at ENSTA Paris and also pursuing an M2 in Data Science at École Polytechnique.
+
+🔬 I recently completed a research internship at ENS Paris-Saclay (Centre Borelli), where I worked on temporal point processes and explored advanced modeling techniques.
+
+🤖 Currently, I’m diving into the world of Generative AI, building projects and experimenting with cutting-edge models.
+
+💡 Passionate about machine learning, probabilistic modeling, and AI applications, I enjoy turning complex ideas into practical solutions.
+
+🚀 Always curious, always learning.
 <!--
 **mahdiht/mahdiht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
